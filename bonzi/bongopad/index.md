@@ -4,6 +4,7 @@ title: bongopad
 nav_order: 2
 description: "bongopad"
 permalink: /bonzi/bongopad
+parent: bonzi
 ---
 
 # bongopad
