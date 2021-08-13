@@ -1,12 +1,3 @@
 title: "keebs"
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
-collections:
-  bonzi:
-    permalink: "/:collection/:path/"
-    output: true
- 
-just_the_docs:
-  collections:
-    bonzi:
-      name: bonzi
