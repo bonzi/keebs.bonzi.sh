@@ -1,6 +1,9 @@
 ---
 layout: default
 title: bongopad
+nav_order: 2
+description: "bongopad"
+permalink: /bonzi/bongopad
 ---
 
 # bongopad
